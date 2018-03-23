@@ -1,0 +1,58 @@
+battlefield_NN_B-NP long_RB_B-ADVP ,_``_B-O boring_JJ_B-ADJP and_CC_B-O just_RB_B-NP plain_JJ_I-NP stupid_JJ_I-NP
+battlefield_NN_B-NP earth_NN_I-NP
+a_DT_B-NP film_NN_I-NP review_NN_I-NP by_IN_B-PP michael_NNP_B-NP redman_NNP_I-NP copyright_NN_I-NP 2000_CD_I-NP by_IN_B-PP michael_PRP_B-NP redman_MD_B-VP
+in_IN_B-PP my_PRP$_B-NP mid-teen_JJ_I-NP years_NNS_I-NP ,_)_B-O i_PRP_B-NP had_VBD_B-VP a_DT_B-NP horrendous_JJ_I-NP re-occurring_NN_I-NP nightmare_NN_I-NP ._._B-O
+behind_IN_B-PP the_DT_B-NP wheel_NN_I-NP of_IN_B-PP a_DT_B-NP car_NN_I-NP ,_:_B-O i_PRP_B-NP was_VBD_B-VP driving_VBG_I-VP down_RB_B-ADVP a_DT_B-NP straight_JJ_I-NP road_NN_I-NP in_IN_B-PP the_DT_B-NP middle_NN_I-NP of_IN_B-PP a_DT_B-NP desert_NN_I-NP ._._B-O
+no_DT_B-NP scenery_NN_I-NP except_IN_B-PP the_DT_B-NP horizon_NN_I-NP line_NN_I-NP and_CC_B-O the_DT_B-NP converging_VBG_I-NP parallel_JJ_I-NP lines_NNS_I-NP of_IN_B-PP the_DT_B-NP highway_NN_I-NP ._._B-O
+no_DT_B-NP matter_NN_I-NP what_WP_B-NP i_PRP_B-NP did_VBD_B-VP ,_VB_I-VP the_DT_B-NP view_NN_I-NP didn't_CD_I-NP change_NN_I-NP :_:_B-O travelling_VBG_B-VP but_CC_B-O not_RB_B-VP getting_VBG_I-VP anywhere_RB_B-ADVP ._._B-O
+each_DT_B-NP time_NN_I-NP i_PRP_B-NP awoke_VBD_B-VP in_IN_B-PP a_DT_B-NP sweat_NN_I-NP ,_:_B-O terrified_VBN_B-VP ._._B-O
+you_PRP_B-NP don't_VBP_B-VP have_VB_I-VP to_TO_I-VP be_VB_I-VP carl_NNS_B-NP jung_MD_B-VP to_TO_I-VP understand_VB_I-VP that_DT_B-NP dream_NN_I-NP ._._B-O
+powerless_JJ_B-ADJP to_TO_B-VP make_VB_I-VP changes_NNS_B-NP ,_)_B-O trapped_VBN_B-VP in_IN_B-PP a_DT_B-NP boring_JJ_I-NP situation_NN_I-NP with_IN_B-PP no_DT_B-NP hope_NN_I-NP of_IN_B-PP rescue_NN_B-NP ,_)_B-O this_DT_B-NP is_VBZ_B-VP the_DT_B-NP stuff_NN_I-NP of_IN_B-PP nightmares_NNS_B-NP whether_IN_B-SBAR we_PRP_B-NP are_VBP_B-VP asleep_RB_B-ADVP or_CC_I-ADVP awake_RB_I-ADVP ._._B-O
+this_DT_B-NP is_VBZ_B-VP exactly_RB_B-ADVP how_WRB_B-ADVP you_PRP_B-NP will_MD_B-VP feel_VB_I-VP 15_CD_B-NP minutes_NNS_I-NP after_IN_B-PP "_JJ_B-NP battlefield_NN_I-NP earth_NN_I-NP "_:_B-O begins_VBZ_B-VP ._._B-O
+for_IN_B-PP all_DT_B-NP of_IN_B-PP its_PRP$_B-NP flash_NN_I-NP and_CC_I-NP style_NN_I-NP ,_:_B-O l_NN_B-NP ._._B-O ron_NNP_B-NP hubbard's_JJ_I-NP science_NN_I-NP fiction_NN_I-NP epic_NN_I-NP is_VBZ_B-VP the_DT_B-NP earliest_JJS_I-NP and_CC_I-NP best_JJS_I-NP entry_NN_I-NP for_IN_B-PP the_DT_B-NP dullest_JJS_I-NP summer_NN_I-NP film_NN_I-NP of_IN_B-PP 2000_CD_B-NP ._._B-O
+dull_JJ_B-ADJP "_''_B-O and_CC_I-O "_(_I-O stupid_JJ_B-ADJP ._._B-O
+in_IN_B-PP the_DT_B-NP year_NN_I-NP 3000_CD_I-NP ,_:_B-O the_DT_B-NP psychlo_NN_I-NP aliens_NNS_I-NP have_VBP_B-VP ruled_VBN_I-VP our_PRP$_B-NP planet_NN_I-NP for_IN_B-PP 1_CD_B-NP ,_CD_I-NP 000_CD_I-NP years_NNS_I-NP ._._B-O
+humans_NNS_B-NP either_RB_B-ADVP work_VBP_B-VP as_IN_B-PP slave_NN_B-NP labor_NN_I-NP in_IN_B-PP mining_NN_B-NP operations_NNS_I-NP or_CC_B-O live_VBP_B-VP as_IN_B-PP barbarians_NNS_B-NP ._._B-O
+there's_''_B-O no_DT_B-NP hope_NN_I-NP ._._B-O
+the_DT_B-NP future_NN_I-NP is_VBZ_B-VP bleak_JJ_B-ADJP ._._B-O
+then_RB_B-ADVP the_DT_B-NP psychlo_NNS_I-NP make_VBP_B-VP a_DT_B-NP mistake_NN_I-NP and_CC_B-O capture_VB_B-VP feisty_JJ_B-NP jonnie_NNS_I-NP goodboy_VBG_B-VP tyler_NNS_B-NP (_(_B-O barry_JJ_B-NP pepper_NN_I-NP )_)_B-O who_WDT_B-NP organizes_VBZ_B-VP a_DT_B-NP revolution_NN_I-NP against_IN_B-PP chief_JJ_B-NP of_IN_B-PP security_NN_B-NP terl_NNS_I-NP (_(_B-O john_NN_B-NP travolta_._I-NP )_)_B-O and_CC_I-O the_DT_B-NP alien_JJ_I-NP race_NN_I-NP ._._B-O
+it's_''_B-O an_DT_B-NP archetypal_JJ_I-NP post-apocalyptic_JJ_I-NP plot_NN_I-NP full_JJ_B-ADJP of_IN_B-PP promise_NN_B-NP ._._B-O
+considering_VBG_B-VP some_DT_B-NP of_IN_B-PP the_DT_B-NP talent_NN_I-NP involved_VBN_B-VP and_CC_B-O all_PDT_B-NP the_DT_I-NP millions_NNS_I-NP thrown_VBN_B-VP at_IN_B-PP the_DT_B-NP screen_NN_I-NP ,_:_B-O it's_``_I-O difficult_JJ_B-ADJP to_TO_B-VP see_VB_I-VP how_WRB_B-ADVP it_PRP_B-NP could_MD_B-VP have_VB_I-VP failed_VBN_I-VP so_RB_B-ADVP miserably_RB_I-ADVP ._._B-O
+but_CC_B-O it_PRP_B-NP does_VBZ_B-VP ._._B-O
+the_DT_B-NP story_NN_I-NP is_VBZ_B-VP so_RB_B-ADJP full_JJ_I-ADJP of_IN_B-PP holes_NNS_B-NP that_IN_B-SBAR it_PRP_B-NP falls_VBZ_B-VP apart_RB_B-ADVP within_IN_B-PP minutes_NNS_B-NP of_IN_B-PP the_DT_B-NP opening_NN_I-NP credits_NNS_I-NP ._._B-O
+are_VBP_B-VP we_PRP_B-NP really_RB_B-ADVP supposed_VBD_B-VP to_TO_I-VP believe_VB_I-VP that_IN_B-SBAR after_IN_B-PP a_DT_B-NP millennium_NN_I-NP of_IN_B-PP looking_VBG_B-VP for_IN_B-PP gold_NN_B-NP ,_''_B-O the_DT_B-NP psychlo_NN_I-NP never_RB_B-ADVP discovered_VBD_B-VP fort_NN_B-NP knox_NN_I-NP ?_._B-O
+or_CC_B-O that_IN_B-SBAR fighter_NN_B-NP planes_NNS_I-NP are_VBP_B-VP still_RB_B-ADVP in_IN_B-PP pristine_JJ_B-NP condition_NN_I-NP after_IN_B-PP all_DT_B-NP that_DT_I-NP time_NN_I-NP --_:_B-O and_CC_I-O gassed_VBN_B-VP up_RP_B-PRT ?_._B-O
+or_CC_B-O that_IN_B-SBAR the_DT_B-NP cavemen_NNS_I-NP become_VBP_B-VP such_JJ_B-NP expert_NN_I-NP pilots_NNS_I-NP in_IN_B-PP seven_CD_B-NP days_NNS_I-NP that_IN_B-SBAR they_PRP_B-NP can_MD_B-VP easily_RB_I-VP down_VB_I-VP the_DT_B-NP advanced_VBN_I-NP alien_JJ_I-NP ships_NNS_I-NP ?_._B-O
+or_CC_B-O that_IN_B-SBAR the_DT_B-NP psychlo_JJ_I-NP spy_NN_I-NP cameras_NNS_I-NP somehow_RB_B-ADVP don't_VBP_B-VP notice_VB_I-VP that_IN_B-SBAR their_PRP$_B-NP slaves_NNS_I-NP are_VBP_B-VP missing_VBG_I-VP for_IN_B-PP days_NNS_B-NP ?_._B-O
+travolta_JJ_B-NP prances_NNS_I-NP across_IN_B-PP the_DT_B-NP screen_NN_I-NP hamming_VBG_B-VP it_PRP_B-NP up_RP_B-PRT for_IN_B-PP all_DT_B-NP he's_JJ_I-NP worth_JJ_I-NP and_CC_B-O is_VBZ_B-VP almost_RB_I-VP entertaining_VBG_I-VP ._._B-O
+almost_RB_B-ADVP ._._B-O
+the_DT_B-NP rest_NN_I-NP of_IN_B-PP the_DT_B-NP actors_NNS_I-NP are_VBP_B-VP wooden_JJ_B-ADJP mannequins_NNS_B-NP trying_VBG_B-VP not_RB_B-ADVP to_TO_B-VP laugh_VB_I-VP while_IN_B-SBAR delivering_VBG_B-VP lines_NNS_B-NP that_IN_B-SBAR no_DT_B-NP person_NN_I-NP --_:_B-O "_:_I-O man-animal_:_I-O "_``_I-O or_CC_I-O not_RB_I-O --_:_I-O would_MD_B-VP ever_RB_I-VP utter_VB_I-VP ._._B-O
+some_DT_B-NP of_IN_B-PP the_DT_B-NP film_NN_I-NP _looks__:_B-O good_JJ_B-ADJP ,_:_B-O but_CC_I-O it_PRP_B-NP also_RB_B-ADVP looks_VBZ_B-VP so_RB_B-ADJP familiar_JJ_I-ADJP ._._B-O
+a_DT_B-NP race_NN_I-NP of_IN_B-PP large_JJ_B-NP hulking_JJ_I-NP ape-like_JJ_I-NP creatures_NNS_I-NP has_VBZ_B-VP taken_VBN_I-VP over_IN_B-PP the_DT_B-NP world_NN_I-NP while_IN_B-SBAR our_PRP$_B-NP cities_NNS_I-NP lie_VBP_B-VP in_IN_B-PP ruin_NN_B-NP ._._B-O
+sound_NN_B-NP like_IN_B-PP something_NN_B-NP charlton_NNS_I-NP heston_MD_B-VP might_RB_I-VP be_VB_I-VP in_IN_B-PP ?_._B-O
+the_DT_B-NP psychlo_NN_I-NP look_VBP_B-VP like_IN_B-PP overweight_JJ_B-NP klingons_NNS_I-NP in_IN_B-PP gear_NN_B-NP from_IN_B-PP "_JJ_B-NP dune_NN_I-NP "_:_B-O ._._I-O
+the_DT_B-NP final_JJ_I-NP air_NN_I-NP battle_NN_I-NP between_IN_B-PP the_DT_B-NP air_NN_I-NP force_NN_I-NP fighters_NNS_I-NP and_CC_B-O the_DT_B-NP psychlo_NNS_I-NP ships_NNS_I-NP in_IN_B-PP their_PRP$_B-NP high-tech_JJ_I-NP city_NN_I-NP is_VBZ_B-VP something_NN_B-NP george_NN_I-NP lucas_NNS_I-NP might_MD_B-VP have_VB_I-VP been_VBN_I-VP associated_VBN_I-VP with_IN_B-PP ._._B-O
+it's_``_B-O too_RB_B-ADJP loud_JJ_I-ADJP ._._B-O
+it's_``_B-O too_RB_B-ADJP oppressive_JJ_I-ADJP ._._B-O
+it's_``_B-O too_RB_B-ADJP slow_JJ_I-ADJP ._._B-O
+it's_''_B-O too_RB_B-ADVP long_RB_I-ADVP ._._B-O ._._I-O ._._I-O far_RB_B-ADVP
+too_RB_B-ADVP long_RB_I-ADVP ._._B-O
+and_CC_B-O on_IN_B-PP it_PRP_B-NP goes_VBZ_B-VP ._._B-O
+the_DT_B-NP list_NN_I-NP of_IN_B-PP the_DT_B-NP problems_NNS_I-NP with_IN_B-PP "_JJ_B-NP battlefield_NN_I-NP earth_NN_I-NP "_''_B-O is_VBZ_B-VP endless_JJ_B-ADJP ._._B-O
+it's_PRP$_B-NP difficult_JJ_B-ADJP to_TO_B-VP find_VB_I-VP anything_NN_B-NP in_IN_B-PP the_DT_B-NP film_NN_I-NP that_WDT_B-NP does_VBZ_B-VP work_VB_I-VP ._._B-O
+oh_NN_B-NP yeah_RB_B-ADVP ._._B-O
+the_DT_B-NP color_NN_I-NP scheme_NN_I-NP is_VBZ_B-VP nice_JJ_B-ADJP ._._B-O
+the_DT_B-NP real_JJ_I-NP question_NN_I-NP is_VBZ_B-VP how_WRB_B-ADVP this_DT_B-NP movie_NN_I-NP ever_RB_B-ADVP got_VBD_B-VP made_VBN_I-VP ._._B-O
+could_MD_B-VP it_PRP_B-NP have_VBP_B-VP something_NN_B-NP to_TO_B-VP do_VB_I-VP with_IN_B-PP the_DT_B-NP fact_NN_I-NP that_IN_B-SBAR l_VBG_B-VP ._._B-O ron_NNP_B-NP hubbard_PRP_B-NP was_VBD_B-VP the_DT_B-NP founder_NN_I-NP of_IN_B-PP scientology_NN_B-NP ?_._B-O
+and_CC_B-O that_DT_B-NP john_NN_I-NP travolta_MD_B-VP is_VB_I-VP a_DT_B-NP member_NN_I-NP of_IN_B-PP the_DT_B-NP church_NN_I-NP ._._B-O
+that_DT_B-NP might_MD_B-VP explain_VB_I-VP why_PRP_B-NP travolta_NNS_I-NP bought_VBD_B-VP the_DT_B-NP rights_NNS_I-NP to_TO_B-PP the_DT_B-NP novel_NN_I-NP years_NNS_I-NP ago_RB_B-ADVP ._._B-O
+but_CC_B-O it_PRP_B-NP doesn't_MD_B-VP give_VB_I-VP us_PRP_B-NP a_DT_B-NP clue_NN_I-NP as_IN_B-PP to_TO_B-PP why_$_B-NP first-time_JJ_I-NP screenwriter_NN_I-NP corey_NNS_I-NP mandell's_POS_B-NP atrocious_JJ_I-NP script_NN_I-NP was_VBD_B-VP used_VBN_I-VP ._._B-O
+or_CC_B-O why_WRB_B-ADVP the_DT_B-NP high-profile_JJ_I-NP project_NN_I-NP was_VBD_B-VP entrusted_VBN_I-VP with_IN_B-PP roger_NNP_B-NP christian_NN_I-NP who_WP_B-NP had_VBD_B-VP never_RB_I-VP before_IN_I-VP directed_VBN_I-VP a_DT_B-NP major_JJ_I-NP film_NN_I-NP ._._B-O
+or_CC_B-O why_WRB_B-ADVP no_DT_B-NP one_CD_I-NP looked_VBD_B-VP at_IN_B-PP this_DT_B-NP thing_NN_I-NP before_IN_B-PP it_PRP_B-NP was_VBD_B-VP released_VBN_I-VP and_CC_B-O realized_VBD_B-VP there_EX_B-NP might_MD_B-VP be_VB_I-VP problems_NNS_B-NP ._._B-O
+the_DT_B-NP one_CD_I-NP bright_JJ_I-NP spot_NN_I-NP is_VBZ_B-VP that_IN_B-SBAR no_DT_B-NP longer_RB_I-NP will_MD_B-VP kevin_VB_I-VP costner's_``_B-O "_VBZ_I-O the_DT_B-NP postman_NN_I-NP "_)_B-O (_:_I-O which_WDT_B-NP i_PRP_B-NP begrudgingly_RB_B-VP admit_VB_I-VP as_IN_B-PP a_DT_B-NP guilty_JJ_I-NP pleasure_NN_I-NP )_)_B-O be_CC_I-O "_(_I-O the_DT_B-NP "_JJ_I-NP big_JJ_I-NP budget_NN_I-NP science_NN_I-NP fiction_NN_I-NP failure_NN_I-NP ._._B-O
+"_DT_B-O battlefield_NN_B-NP earth_NN_I-NP "_)_B-O has_VBZ_B-VP the_DT_B-NP honor_NN_I-NP sewed_VBD_B-VP up_RB_B-ADVP ._._B-O
+often_RB_B-ADVP reviewers_NNS_B-NP will_MD_B-VP recommend_VB_I-VP that_IN_B-SBAR you_PRP_B-NP skip_VBP_B-VP mediocre_JJ_B-NP films_NNS_I-NP and_CC_B-O wait_VB_B-VP for_IN_B-PP the_DT_B-NP video_NN_I-NP ._._B-O
+that's_LS_B-LST not_)_B-O the_DT_B-NP case_NN_I-NP here_RB_B-ADVP ._._B-O
+you_PRP_B-NP can_MD_B-VP act_VB_I-VP now_RB_B-ADVP and_CC_B-O make_VB_B-VP the_DT_B-NP decision_NN_I-NP to_TO_B-VP not_RB_I-VP see_VB_I-VP it_PRP_B-NP on_IN_B-PP the_DT_B-NP big_JJ_I-NP screen_NN_I-NP or_CC_B-PP on_IN_B-PP the_DT_B-NP small_JJ_I-NP one_CD_I-NP ._._B-O
+don't_TO_B-VP hesitate_VB_I-VP ._._B-O
+strike_NN_B-NP now_RB_B-ADVP while_IN_B-SBAR the_DT_B-NP iron_NN_I-NP is_VBZ_B-VP cold_JJ_B-ADJP ._._B-O
